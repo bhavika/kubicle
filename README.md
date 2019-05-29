@@ -1,6 +1,10 @@
-## Notes on EKS
+## Notes
 
+- Kubernetes on managed services 
 
+    - AWS EKS
+
+    
 - Argo for Batch workloads
 
 Parameters:  https://github.com/argoproj/argo/blob/master/examples/README.md#parameters
