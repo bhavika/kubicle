@@ -9,7 +9,7 @@ eksctl version
 
 # create a cluster
 eksctl create cluster \
---name bhavika-kubicle \
+--name kubicle \
 --version 1.12 \
 --nodegroup-name standard-workers \
 --node-type t3.medium \
