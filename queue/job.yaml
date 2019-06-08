@@ -9,6 +9,6 @@ spec:
       name: job-wq-2
     spec:
       containers:
-      - name: c
-        image: gcr.io/myproject/job-wq-2
+      - name: job-wq
+        image: aws-account-no.dkr.ecr.us-east-1.amazonaws.com/job-wq-2:latest
       restartPolicy: OnFailure
